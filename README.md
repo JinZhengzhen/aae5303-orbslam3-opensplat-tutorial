@@ -82,6 +82,7 @@ Final artifacts:
 1. Open [PlayCanvas Viewer](https://playcanvas.com/viewer)
 2. Drag and drop `output/amtown02_step10_final.splat`
 3. Inspect geometry continuity, floaters, and rendering stability
+<img width="2204" height="1258" alt="685509c87b61c3610b8eb74239b811ab" src="https://github.com/user-attachments/assets/547f9397-53a7-46ba-aa74-f874d9a250cb" />
 
 ---
 
